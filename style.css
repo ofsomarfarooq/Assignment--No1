@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5%;
+    background-image:url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.main-head{
+    font-size: 50px;
+    border-left:3px solid purple;
+    padding: 0 0 0 2%;
+    font-family: 'Lobster', cursive;
+}
+.udvot{
+    color:purple
+}
+.flexible{ 
+    display: flex;
+}
+
+.sec1-div1{
+    width: 50%;
+}
+.sec1-div1 img{
+    width: 35%;
+    margin-left: 40%;
+}
+.button{
+    color: white;
+    padding: 1% 2%;
+    border-radius: 5px;
+    background-image:linear-gradient(orange, salmon );
+    text-decoration: none;
+}
+
+.sec2-h1{
+    
+    text-align: center;
+}
+.sec2{
+    font-size: 80%;
+    
+    
+}
+.sec2-div1{
+    width: 40%;
+    margin: 2%;
+    background-color: rgb(255, 196, 206);
+    border-radius: 15px;
+    padding: 2% ;
+    
+   
+}
+.sec2-div2{
+    width: 40%;
+    margin: 2%;
+    background-color: rgb(191, 211, 248);
+    border-radius: 15px;
+    padding: 2% ;
+    
+    
+
+}
+.sec2-div3{
+    width: 40%;
+    margin: 2%;
+    background-color: rgb(247, 245, 144);
+    border-radius: 15px;
+    padding: 2% ;
+    
+}
+.sec2-div1 img{
+    width: 70%;
+}
+.sec2-div2 img{
+    width: 80%;
+    height: 25%;
+}
+.sec2-div3 img{
+    width: 70%;
+}
+.link{text-decoration: none;}
+h2{
+    width: 60%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 800 ;
+
+}
+.sec3-div1{
+    width:60%;
+    margin: 2.5%;
+}
+.img1{
+   width: 40%;
+   border-radius: 15px;
+   margin: 2%;
+}
+.sec4-div1{
+    width:50%;
+    margin:5%;
+}
+.img2{
+    border-radius: 15px;
+
+}
+.sec5-h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.sec5-div1{
+    width: 50%;
+    margin: 5%;
+   
+}
+.img3{
+    width:40%;
+}
+.app-details{
+    margin-top:10% ;
+}
+footer{
+      background: #111 ;
+      height: auto;
+      width:100vw;
+      font-family: "Open Sans";
+      padding-top: 20px;
+      padding-bottom: 20px;
+      color: white;
+      margin: -7%;
+      text-align: center;
+}
